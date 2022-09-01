@@ -1,3 +1,8 @@
 # component-generator
-## run this script
-### bash ./script.sh
+
+## How to run in dev mode ?
+
+- First install dependencies by running (Be sure to have node v14+)
+    ```
+    bash ./script.sh
+    ```
